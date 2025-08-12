@@ -71,7 +71,7 @@ cluster_profile = orginal_df.groupby("cluster").agg({
 }).round(2)
 
 
-
+"""
 plt.figure(figsize=(12, 8))
 sns.scatterplot(data=orginal_df, 
                 x='recency', 
@@ -85,7 +85,7 @@ plt.xlabel("Recency")
 plt.ylabel("Total Sales")
 plt.legend(title="Segment id")
 plt.show()
-
+"""
 
 
 if __name__ == "__main__":
