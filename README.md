@@ -208,14 +208,3 @@ For each segment consider:
 - CRM triggers (win-back, cross-sell, upsell)
 - Insights (category mix, basket size, channel preferences)
 
----
-
-## Ideas for Improvement
-- Alternative clustering: Gaussian Mixture, HDBSCAN
-- Automatic K selection: Silhouette, Calinski–Harabasz, Davies–Bouldin
-- Time-series features: ARPU trend, churn propensity
-- Basket analysis: Market Basket (Apriori/FP-Growth)
-- Customer Lifetime Value (CLV) modeling
-- Online scoring service (REST) and dashboard integration
-
----
