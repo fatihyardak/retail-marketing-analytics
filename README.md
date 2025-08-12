@@ -3,12 +3,6 @@ An end-to-end data science project for customer segmentation and promotion sensi
 
 This project merges transaction data, household demographics, and coupon/discount interactions to engineer RFM metrics and other behavioral features, builds a customer-level feature matrix, and performs K-Means clustering to generate actionable customer segments.
 
->   `docs/images/` :
-> - `docs/images/pipeline.png` → the workflow diagram (attached pipeline figure)
-> - `docs/images/elbow.png` → the Elbow method chart (attached plot)
-
----
-
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
